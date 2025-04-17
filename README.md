@@ -1,10 +1,8 @@
 # Routing
 
-- [Publih HTML to routing exercise](https://users.metropolia.fi/~gerlih/routing/)
+Open [this link](https://users.metropolia.fi/~gerlih/custom_hooks/) to view custom-hooks on browser.
 
 # React + Vite
-
-Open [this link](http://users.metropolia.fi/~gerlih/hooks) to view it in the browser.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
