@@ -1,6 +1,6 @@
 # Routing
 
-Open [this link](https://users.metropolia.fi/~gerlih/upload_dist/) to view custom-hooks on browser.
+Open [this link](https://users.metropolia.fi/~gerlih/upload_dist/) to view upload on browser.
 
 # React + Vite
 
